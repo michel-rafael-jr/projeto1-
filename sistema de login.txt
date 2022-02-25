@@ -1,1 +1,5 @@
-entrar e arquivar 
+digite seu email
+digite sua senha 
+digite idade
+digite seu nome 
+digite seu endereço 
